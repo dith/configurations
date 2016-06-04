@@ -1,0 +1,9 @@
+[user]
+    name = Dith Kok
+    email = dith0930@gmail.com
+[color]
+	ui = true
+[alias]
+	co = checkout
+	st = status
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
